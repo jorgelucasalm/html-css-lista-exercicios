@@ -1,0 +1,22 @@
+body {
+  background: lightcyan;
+}
+
+p {
+  color: darkred;
+  text-transform: capitalize;
+}
+
+a {
+  text-decoration: line-through;
+}
+
+h1 {
+  font-style: italic;
+  font-variant: small-caps;
+  text-align: center;
+}
+
+h1 + p {
+  text-align: right;
+}

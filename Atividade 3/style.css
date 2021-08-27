@@ -1,0 +1,32 @@
+body {
+  background: pink;
+}
+
+h1 {
+  text-align: center;
+  text-shadow: red 2px 2px;
+}
+
+.box {
+  border: 1px solid orange;
+  width: 100%;
+  background: #fff;
+  text-align: center;
+  padding: 15px;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  padding: 2rem 0;
+}
+
+img {
+  width: 400px;
+  border-radius: 10px;
+  filter: drop-shadow(10px 10px 3px DarkSalmon);
+}
+
+aside {
+  font-weight: bold;
+}
